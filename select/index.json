@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ずうっといっしょ！ / キタニタツヤ - ALWAYS BE WITH YOU XD / Tatsuya Kitani",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2025-12-01T14:53:54.141935Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ずうっといっしょ！",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/01_ずうっといっしょ!_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ずうっといっしょ！ - ALWAYS BE WITH YOU XD",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/02_ずうっといっしょ!_-_ALWAYS_BE_WITH_YOU_XD_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ずうっといっしょ!",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/03_ずうっといっしょ!_キタニタツヤ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ずうっといっしょ!",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_ずうっといっしょ!_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ずうっといっしょ!",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_02_ずうっといっしょ!_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ずうっといっしょ!-cover by ローレン・イロアス-",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_03_ずうっといっしょ!-cover_by_ローレン・イロアス-_キタニタツヤ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ずうっといっしょ! (Amunik Arrange Cover)",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_04_ずうっといっしょ!_(Amunik_Arrange_Cover)_キタニタツヤ.txt"
+    }
+  ]
+}
